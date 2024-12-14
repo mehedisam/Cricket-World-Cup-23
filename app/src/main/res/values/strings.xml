@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CricketWorldCup23</string>
+    <string-array name="country">
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>AUSTRALIA vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs NEW-ZEALAND\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>SRILANKA vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs INDIA\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>PAKISTAN vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs INDIA\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs INDIA\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+        <item>ENGLAND vs BANGLADESH\nDate: May 30, 2019  Time:3:30 PM</item>
+
+    </string-array>
+</resources>

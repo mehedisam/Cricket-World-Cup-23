@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp"
+    android:background="#BFCF1E"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/afg"
+        android:drawableLeft="@drawable/afghanistan"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Afghanistan"
+        android:textColor="#000000"
+        android:textSize="27sp" />
+
+
+    <TextView
+        android:id="@+id/aus"
+        android:drawableLeft="@drawable/aus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Australia"
+        android:textColor="#000000"
+        android:textSize="27sp" />
+
+    <TextView
+        android:id="@+id/ban"
+        android:drawableLeft="@drawable/bangladesh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bangladesh"
+        android:textColor="#000000"
+        android:textSize="27sp" />
+
+
+    <TextView
+        android:drawableLeft="@drawable/england"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="England"
+        android:textSize="27sp" />
+
+
+    <TextView
+        android:drawableLeft="@drawable/india"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="India"
+        android:textSize="27sp" />
+
+
+    <TextView
+        android:drawableLeft="@drawable/nz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="New Zealand"
+        android:textSize="27sp" />
+
+
+    <TextView
+        android:drawableLeft="@drawable/pakistan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="Pakistan"
+        android:textSize="27sp" />
+
+    <TextView
+        android:drawableLeft="@drawable/sa"
+        android:layout_width="wrap_content"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"
+        android:text="South Africa"
+        android:textSize="27sp" />
+
+    <TextView
+        android:drawableLeft="@drawable/sl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="Sri lanka"
+        android:textSize="27sp" />
+
+    <TextView
+        android:drawableLeft="@drawable/zimbabwe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="Zimbabwe"
+        android:textSize="27sp" />
+</LinearLayout>
